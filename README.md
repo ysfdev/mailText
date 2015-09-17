@@ -13,7 +13,4 @@ The following information must be provided before sending sms:
 
 The delivery of the sms relies on the phone carriers to process the text message. Since some carriers might mark the message as SPAM.
 
-<<<<<<< HEAD
 
-=======
->>>>>>> f9e9563549755f498c12a6c5e564e0f706faaac5
